@@ -1,6 +1,9 @@
 # **HTML-in-Nutshell**
  ## **Repository details:**
-    This repository will take you on a roller coaster ride. When you start it feels very simple, but as you go you feel like you're getting some power and that power will light up your web development journey.
+    This repository will take you on a roller coaster ride.
+    When you start it feels very simple, but as you go you
+    feel like you're getting some power and that power will 
+    light up your web development journey.
     So, without wasting your time, jump in and start learning.
     Have fun! 
 ### **Why HTML/HTML5?**
@@ -12,7 +15,11 @@ If you're thinking about creating a website for yourself or for others then you 
 
 **Markup language:** A markup language is a computer language that is used to apply layout and formatting conventions to a text document. Markup language makes text more interactive and dynamic. It can turn text into images, tables, links, etc.
 
-    HTML is a computer language that makes up most web pages and online applications. A hypertext is a text that is used to reference other pieces of text, while a markup language is a series of markings that tells web servers the style and structure of a document. 
+    HTML is a computer language that makes up most web pages
+    and online applications. A hypertext is a text that is use
+    to reference other pieces of text, while a markup language
+    is a series of markings that tells web servers the style and
+    structure of a document. 
 
 HTML is not considered a programming language as it can’t create dynamic functionality. Instead, with HTML, web users can create and **structure sections**, **paragraphs**, and **links** using **elements**, **tags**, and **attributes**. 
 
@@ -37,7 +44,11 @@ It’s also worth noting that HTML is now considered an official web standard. T
     
 ``` <!DOCTYPE html>: ```
 
-    On the HTML document you have often seen that there is a <!DOCTYPE html> declaration before the <html> tag. HTML <!DOCTYPE> tag is used to inform the browser about the version of HTML used in the document. It is called as the document type declaration (DTD).
+    On the HTML document you have often seen that there
+    is a <!DOCTYPE html> declaration before the <html> tag.
+    HTML <!DOCTYPE> tag is used to inform the browser about
+    the version of HTML used in the document. It is called as
+    the document type declaration (DTD).
 ``` <html> </html>: ```
 
     The <html> tag represents the root of an HTML document. 
